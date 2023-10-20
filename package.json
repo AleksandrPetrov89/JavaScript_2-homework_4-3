@@ -1,0 +1,19 @@
+{
+  "name": "homework_4-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrPetrov89/JavaScript_2-homework_4-3.git"
+  },
+  "author": "Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_4-3/issues"
+  },
+  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_4-3#readme"
+}
